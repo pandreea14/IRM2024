@@ -1,0 +1,13 @@
+.env
+/node_modules
+*.log
+.vscode/
+/Library/
+/Logs/
+/Packages/
+.vs/
+Packages\com.ptc.vuforia.engine-10.25.4.tgz
+/Assets/SamplesResources/
+/Assets/SamplesResources 
+/Assets/Editor
+/Assets/Editor/
